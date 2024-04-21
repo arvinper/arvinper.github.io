@@ -32,6 +32,10 @@ h1{
     color: white;
 }
 
+p {
+    text-align: justify;
+}
+
 .col {
     background-color: rgb(109, 179, 236);
     width: 25%;
